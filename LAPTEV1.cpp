@@ -27,6 +27,7 @@ inline void processingVector(std::vector<double>& vArr, const int c_iTemp)
     outputArray(vArr);
 }
 
+
 int main()
 {
     int iInputStartArrSize = 0;
